@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Slogan1_MarginBottom">2dp</dimen>
+    <dimen name="Slogan1_textSize">25sp</dimen>
+
+    <dimen name="Slogan2_textSize">25sp</dimen>
+
+    <dimen name="Website_Margin">15dp</dimen>
+    <dimen name="Website_textSize">22sp</dimen>
+
+    <dimen name="Address1_textSize">20sp</dimen>
+
+    <dimen name="Address2_MarginTop">2dp</dimen>
+    <dimen name="Address2_textSize">20sp</dimen>
+
+    <dimen name="PhoneNo_MarginTop">5dp</dimen>
+    <dimen name="PhoneNo_textSize">20sp</dimen>
+
+</resources>

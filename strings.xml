@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Udacity</string>
+
+    <string name="Slogan1">Where Interactive Learning</string>
+    <string name="Slogan2">Takes Place</string>
+
+    <string name="Website">www.udacity.com</string>
+
+    <string name="Address1">2465 Latham St.</string>
+    <string name="Address2">Mountain View, CA 94043</string>
+    <string name="Phone_number">650"\-"555"\-"5555</string>
+</resources>
